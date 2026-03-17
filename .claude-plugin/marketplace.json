@@ -12,8 +12,8 @@
       "description": "Iterative code improvement loop using /proud and /exquisite introspection. Run /rounds to polish your code until it's world class.",
       "version": "1.0.0",
       "source": {
-        "source": "github",
-        "repo": "robertbagge/claude-roadhouse-plugin"
+        "source": "url",
+        "url": "https://github.com/robertbagge/claude-roadhouse-plugin.git"
       },
       "author": {
         "name": "robertbagge"
