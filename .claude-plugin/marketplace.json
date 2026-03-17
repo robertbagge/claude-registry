@@ -1,0 +1,26 @@
+{
+  "name": "claude-registry",
+  "owner": {
+    "name": "Robert Bagge"
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "roadhouse",
+      "description": "Iterative code improvement loop using /proud and /exquisite introspection. Run /rounds to polish your code until it's world class.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "robertbagge/claude-roadhouse-plugin"
+      },
+      "author": {
+        "name": "robertbagge"
+      },
+      "homepage": "https://github.com/robertbagge/claude-roadhouse-plugin",
+      "license": "MIT",
+      "category": "code-quality"
+    }
+  ]
+}
