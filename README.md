@@ -21,3 +21,4 @@ claude plugin install roadhouse@claude-registry
 | Plugin | Description |
 |--------|-------------|
 | [roadhouse](https://github.com/robertbagge/claude-roadhouse-plugin) | Iterative code improvement loop using `/proud` and `/exquisite` introspection |
+| [sagan](https://github.com/robertbagge/claude-sagan-plugin) | Multi-round, parallel-agent deep-research projects with mandatory tier-tagged citations |

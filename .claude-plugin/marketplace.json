@@ -21,6 +21,21 @@
       "homepage": "https://github.com/robertbagge/claude-roadhouse-plugin",
       "license": "MIT",
       "category": "code-quality"
+    },
+    {
+      "name": "sagan",
+      "description": "Multi-round, parallel-agent deep-research projects: plan a brief, run agents in parallel, synthesise findings, repeat.",
+      "version": "0.2.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/robertbagge/claude-sagan-plugin.git"
+      },
+      "author": {
+        "name": "robertbagge"
+      },
+      "homepage": "https://github.com/robertbagge/claude-sagan-plugin",
+      "license": "MIT",
+      "category": "research"
     }
   ]
 }
