@@ -36,6 +36,21 @@
       "homepage": "https://github.com/robertbagge/claude-sagan-plugin",
       "license": "MIT",
       "category": "research"
+    },
+    {
+      "name": "zoetrope",
+      "description": "Convert screen recordings to high-quality GIF/WebP and resize/convert still images via the zoetrope CLI.",
+      "version": "0.2.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/robertbagge/claude-zoetrope-plugin.git"
+      },
+      "author": {
+        "name": "robertbagge"
+      },
+      "homepage": "https://github.com/robertbagge/claude-zoetrope-plugin",
+      "license": "MIT",
+      "category": "media"
     }
   ]
 }

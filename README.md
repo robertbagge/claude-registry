@@ -22,3 +22,4 @@ claude plugin install roadhouse@claude-registry
 |--------|-------------|
 | [roadhouse](https://github.com/robertbagge/claude-roadhouse-plugin) | Iterative code improvement loop using `/proud` and `/exquisite` introspection |
 | [sagan](https://github.com/robertbagge/claude-sagan-plugin) | Multi-round, parallel-agent deep-research projects with mandatory tier-tagged citations |
+| [zoetrope](https://github.com/robertbagge/claude-zoetrope-plugin) | Convert screen recordings to high-quality GIF/WebP and resize/convert still images via the zoetrope CLI |
